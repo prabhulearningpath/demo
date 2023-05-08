@@ -21,6 +21,7 @@ namespace demo.Controllers
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
+            5/2
         }
 
         [HttpGet]
